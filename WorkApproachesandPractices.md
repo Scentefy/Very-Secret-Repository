@@ -51,3 +51,8 @@ This will be a reflective meeting that will be held in person or over video call
 **User involvement**
 
 We will be interacting and questioning the client through email often to fill in the gaps in our knowledge with the requirements of the deliverables.
+
+| edsfsd | fsddsf | sd  | dfs    | sdf   | fsd |
+|--------|--------|-----|--------|-------|-----|
+| sdffds | dssdf  | sdf | fsdfds | sfddf | fds |
+| dsfsdf |        | sdf | fds    | sdf   | sdf |
