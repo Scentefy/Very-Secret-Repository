@@ -1,58 +1,62 @@
 **Work Approaches and Practices**
 
-We have decided to adopt the following agile practices to give structure to the execution of the project, and ensure that the project is fully understood and delivered in a timely manner.
+We have decided to adopt the following agile practices to give structure to the execution of the project. This will ensure that the project is fully understood and delivered in a timely manner.
 
-**Stand ups and Meetings :**
+**Stand ups and Meetings**
 
-This will be utilized to ensure that there is a constant flow of progress information and status of any impediments affecting the completion of the task being worked on.
+These will be utilized to ensure that there is constant flow towards the project’s progress and also bring attention to the status of any impediments that will affect the completion of the tasks being worked on.
 
-The two types of stand ups we will be usings are facebook post standups and face to face/video call.
+We will be using two types of stand ups which will include Facebook post standups and face to face meetings/video calls.
 
-facebook post standups will be posted in the morning daily by the Chairman and group members are to comment on what they have done, what problems that they have faced which is stopping progress and what they will do today. We have chosen this method even though it does not support dynamic conversation, they do though allow our team keep up with our status of progress with our varied schedules.
+Facebook post standups will be posted in the morning daily by the Chairman, and group members are to comment their progress on what they have done, what problems they have faced (which is stopping the progress) and what they will do today. Although this method doesn’t support dynamic conversation, it does, however, allow our team to keep up with the status of our progress with our varied schedules.
 
-Face to face meetings and video calls will be done once a week to address larger collaboration tasks and decisions made for direction of writing.
+Face to face meetings or video calls will be done once a week to address larger collaboration tasks and decisions.
 
-**Close Proximity **
+**Close Proximity**
 
-This will be facilitated with people who are working on the same deliverable and to a greater extent the whole group to ensure that collaborative work is done in close proximity of to the collaborative member(s) for everyone concerned with the development of the deliverable to understand the collaborative approach and act accordingly to ensure that duplication of work does not occur and team members are able to assist effectively.
+This will be facilitated for team members who are working on the same deliverable and to a greater extent, the whole group. This is to ensure that collaborative work is done in close proximity, which will aid in our collaborative approach and allow our team members to act accordingly so that duplication of work does not occur.
 
-**Burn down charts **
+**Burndown Chart**
 
-This will be used to aid our product delivery to see a graphical representation of how much progress has been planned to be completed to how much work has actually been completed.
+This will aid in our product delivery to provide a graphical representation of how much progress has been planned to be completed, and how much work has actually been completed.
 
-This chart will be used daily at the stand ups to reference the progress of the project and during the retrospective to address what aided/impeded our progress and what was planned well/poorly.
+This chart will be used in our daily stand ups to refer to our progress on the project and also during the Team Retrospective to address what had aided/impeded our progress and what was planned well/poorly.
 
-If the previous sprint deliverables were not completed on time or took longer than expected, we will use this information to address the problems and reschedule the next sprint accordingly.
+If the previous sprint deliverables were not completed on time or took longer than expected, the information will be used to address the problems that had occurred and also to reschedule our future sprints accordingly.
 
-**Milestones (deadlines)**
+**Milestones (Deadlines)**
 
-This Document will give us a clear set of structured deadline to structure our sprints and deliverables around it. We will use it as a reference when planning for sprints in the future as it will give us a guide how much effort will be required for production of subsequent deliverables. This would also help with workload balancing.
+This document will give us a clear insight of structured deadlines to our sprints and the deliverables within it. We will use it as a reference when planning for sprints in the future as it will give us a guide to how much effort will be required for the production of the subsequent deliverables. This would also help with workload balancing between the team.
 
-**Information radiators : Trello board, Facebook group **
+**Information radiators: Trello board, Facebook group**
 
-These tools will be used to support our agile practices and will be managed by the chairman and the task manager and updated frequently by the team. They will be used as a visual references for progress, coordination and workload distribution.
+These tools will be used to support our agile practices which will be updated frequently by the team and managed by the Chairman and Task Manager. They will mainly be used as visual references for the project’s progress, coordination and workload distribution.
 
 **Sprint Time boxed tasks**
 
-Treating each deliverable as a task and breaking it into sections with a specific purpose which one person can work on. Each deliverable has a deadline attached to it which is the end of each sprint.
+We will be treating each deliverable as a task and break them down into sections with a specific purpose in which one person can work on. Each deliverable has a deadline attached to it, which will be the end of each sprint.
 
 **Sprint iterations**
 
-We will be using sprints to timebox each deliverable in a 10 day time period to ensure that there is constant development and urgency to meet structured deadlines.
+Sprints will be used to time box each deliverable in a 10 day time period, ensuring that there is continuous development and an urgency to meet structured deadlines.
 
-**Planning poker **
+**Planning Poker**
 
-This technique of estimating effort needed to finish each deliverable will be conducted on our second set up meeting during this sprint 0 period. This will be then rendered on the milestone document and referred to when building the burndown chart.
+This technique of estimating effort needed to finish each deliverable will be conducted on our second set-up meeting during this sprint 0 period. The results will then be rendered on the milestone document and be referred to when building the burndown chart.
 
 **Sprint Retrospectives**
 
-This will be a reflective meeting that will be held in person or over video call to ask what went well, what did not go well and what we would want to apply to the next sprint execution and planning.
+These will be reflective meetings that will be held in person or over video calls to discuss what went well, what didn’t go well, and what would be applied to the next sprint plannings and executions.
 
 **User involvement**
 
+<<<<<<< HEAD
+We will be questioning and interacting with the client through emails often, in order to fill in the gaps of our knowledge regarding the requirements of the deliverables.
+=======
 We will be interacting and questioning the client through email often to fill in the gaps in our knowledge with the requirements of the deliverables.
 
 | edsfsd | fsddsf | sd  | dfs    | sdf   | fsd |
 |--------|--------|-----|--------|-------|-----|
 | sdffds | dssdf  | sdf | fsdfds | sfddf | fds |
 | dsfsdf |        | sdf | fds    | sdf   | sdf |
+>>>>>>> refs/remotes/origin/master
