@@ -50,13 +50,4 @@ These will be reflective meetings that will be held in person or over video call
 
 **User involvement**
 
-<<<<<<< HEAD
-We will be questioning and interacting with the client through emails often, in order to fill in the gaps of our knowledge regarding the requirements of the deliverables.
-=======
 We will be interacting and questioning the client through email often to fill in the gaps in our knowledge with the requirements of the deliverables.
-
-| edsfsd | fsddsf | sd  | dfs    | sdf   | fsd |
-|--------|--------|-----|--------|-------|-----|
-| sdffds | dssdf  | sdf | fsdfds | sfddf | fds |
-| dsfsdf |        | sdf | fds    | sdf   | sdf |
->>>>>>> refs/remotes/origin/master
