@@ -28,7 +28,7 @@ If the previous sprint deliverables were not completed on time or took longer th
 
 This document will give us a clear insight of structured deadlines to our sprints and the deliverables within it. We will use it as a reference when planning for sprints in the future as it will give us a guide to how much effort will be required for the production of the subsequent deliverables. This would also help with workload balancing between the team.
 
-**Information radiators: Trello board, Facebook group **
+**Information radiators: Trello board, Facebook group**
 
 These tools will be used to support our agile practices which will be updated frequently by the team and managed by the Chairman and Task Manager. They will mainly be used as visual references for the project’s progress, coordination and workload distribution.
 
