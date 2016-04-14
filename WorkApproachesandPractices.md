@@ -12,11 +12,11 @@ Facebook post standups will be posted in the morning daily by the Chairman, and 
 
 Face to face meetings or video calls will be done once a week to address larger collaboration tasks and decisions.
 
-**Close Proximity **
+**Close Proximity**
 
 This will be facilitated for team members who are working on the same deliverable and to a greater extent, the whole group. This is to ensure that collaborative work is done in close proximity, which will aid in our collaborative approach and allow our team members to act accordingly so that duplication of work does not occur.
 
-**Burndown chart **
+**Burndown Chart**
 
 This will aid in our product delivery to provide a graphical representation of how much progress has been planned to be completed, and how much work has actually been completed.
 
