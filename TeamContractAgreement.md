@@ -45,7 +45,7 @@ Project** **Team: “**Very Secret After the meeting” Team.
 
 **Mechanisms adopted for work allocation:**
 
--   We have decided to incorporate the “Sign-up” Agile practice on our Trello storyboard to ensure that each team member will be able to choose what they want to work on. To prevent team members from overworking, we have implemented a “stamina” point system where each individual can only take on a limited amount of work.
+-   We have decided to incorporate the “Sign-up” Agile practice on our Trello storyboard to ensure that each team member will be able to choose what they want to work on.
 
 -   We have also adopted planning poker which will help us realise which tasks require more effort than others. We will use “effort points” with a scale from 1-10.
 
