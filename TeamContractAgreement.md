@@ -71,14 +71,15 @@ Project** **Team: “**Very Secret After the meeting” Team.
 
 -   **Miguel**
 
-    -   Chairman - Manages the stand ups and status of the project.
+    -   Chairman - Manages the stand ups, meetings and status of the project.
     
     -   Practice Documenter - Observes and records all practices used and it’s effects and deals with updating the Wiki page.
     
-    -   Communicator
+    -   Communicator - Manages communication between the team and the product owner
 
 -   **Vivian**
 
     -   Practice Documenter - Observes and records all practices used and it’s effects and deals with updating the Wiki page.
 
-    -   Meeting Facilitator - Records all information talked about in the meeting, decides agenda and.keeps the meeting on course
+    -   Meeting Documenter - Records all information discussed in the meeting, and manages the meeting agendas.
+
