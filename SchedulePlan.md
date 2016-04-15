@@ -4,7 +4,7 @@
 
 **What we will do**
 
-The purpose of this project is to recommend a project approach with a set of suitable practices and tools that would be suitable for a certain case study. The recommendation will be a set of deliverables to assist the case study team in familiarizing themselves with the recommended project approach, as well as with practices and the tools involved with the approach. Product and Project related deliverables will be produced to satisfy the criteria of this project.
+The purpose of this project is to recommend a project approach with a set of suitable practices and tools that would be suitable for case study 1. The recommendation will be a set of deliverables to assist the case study team in familiarizing themselves with the recommended project approach, as well as with practices and the tools involved with the approach. Product and Project related deliverables will be produced to satisfy the criteria of this project.
 
 **Project related deliverables include:**
 
