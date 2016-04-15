@@ -1,4 +1,4 @@
-**Schedule Plan - Software Engineering Assignment 1B**
+**Work division and Integration Report - Software Engineering Assignment 1B**
 
 **Very Secret After the Meeting Team**
 
