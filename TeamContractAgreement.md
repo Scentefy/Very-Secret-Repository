@@ -57,7 +57,7 @@ Project** **Team: “**Very Secret After the meeting” Team.
 
 -   **Tristan**
 
-    -   Practice Documenter - Observes and records all practices used and it’s effects and deals with updating the Wiki page.
+    -   Milestone Scheduler - Manages Sprints/Phases, Agenda, Deliverables. Plan will be shuffled around if needed
 
     -   Task Manager - Manages distributing the deliverables and managing Trello board.
 
@@ -72,9 +72,9 @@ Project** **Team: “**Very Secret After the meeting” Team.
 -   **Miguel**
 
     -   Chairman - Manages the stand ups and status of the project.
-
-    -   Milestone Scheduler - Manages Sprints/Phases, Agenda, Deliverables. Plan will be shuffled around if needed
-
+    
+    -   Practice Documenter - Observes and records all practices used and it’s effects and deals with updating the Wiki page.
+    
     -   Communicator
 
 -   **Vivian**
