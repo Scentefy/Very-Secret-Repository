@@ -1,6 +1,6 @@
-**Schedule Plan**
+**Schedule Plan - Software Engineering Assignment 1B**
 
-**Software Engineering**
+**Very Secret After the Meeting Team**
 
 **What we will do**
 
