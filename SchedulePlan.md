@@ -6,30 +6,29 @@
 
 The purpose of this project is to recommend a project approach with a set of suitable practices and tools that would be suitable for a certain case study. The recommendation will be a set of deliverables to assist the case study team in familiarizing themselves with the recommended project approach, as well as with practices and the tools involved with the approach. Product and Project related deliverables will be produced to satisfy the criteria of this project.
 
-Project related deliverables include:
+**Project related deliverables include:**
 
--   <span id="h.j027dx4s4rfr" class="anchor"></span> The Team Agreement
+-   The Team Agreement
 
--   <span id="h.ei7hmw13b9d5" class="anchor"></span>Work Breakdown Structure
+-   Work Breakdown Structure
 
--   <span id="h.1725gpvfj9qc" class="anchor"></span>Work Approach and Practices
+-   Work Approach and Practices
 
--   <span id="h.uswok1cstfq0" class="anchor"></span>Evidence of development process
+-   Evidence of development process
 
--   <span id="h.cufsty8utyry" class="anchor"></span>Two sets of Retrospectives
-    (See Appendix for WBS Dictionary)
+-   Two sets of Retrospectives (See Appendix for WBS Dictionary)
 
 -   Project Wiki
 
-Product related deliverables include:
+**Product related deliverables include:**
 
--   <span id="h.fe3fmime4rno" class="anchor"></span>A report
+-   A report
 
--   <span id="h.dvmkqjok3kd0" class="anchor"></span>An executive summary
+-   An executive summary
 
--   <span id="h.pa6h9ok7p5ev" class="anchor"></span>Practices and tool guides
+-   Practices and tool guides
 
--   <span id="h.lalweap122l8" class="anchor"></span>Learning package
+-   Learning package
 
 **Case Study Selection**
 
