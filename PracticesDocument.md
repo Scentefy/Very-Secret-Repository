@@ -175,6 +175,14 @@ This is done by team members who can be responsible for managing and undertaking
 
 **Quality assurance**
 
+**Pair programming **
+
+**What is it and how is it done?**
+
+An Agile technique where two programmers work together at one workstation. One acts as the code writer and the other works as the observer who reviews the lines of code the code writer writes. The roles are switched frequently.
+
+[***http://www.allaboutagile.com/pair-programming-an-extremely-agile-practice/***](http://www.allaboutagile.com/pair-programming-an-extremely-agile-practice/)
+
 **Demos**
 
 **What are they?**
