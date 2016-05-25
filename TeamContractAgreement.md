@@ -82,4 +82,6 @@ Project** **Team: “**Very Secret After the meeting” Team.
     -   Practice Documenter - Observes and records all practices used and it’s effects and deals with updating the Wiki page.
 
     -   Meeting Documenter - Records all information discussed in the meeting, and manages the meeting agendas.
+    
+    -   Quality inspection Officer - Responsible for making sure documents are up to standards set out in team made acceptance criteria for documentation standards and is in line with the document requirements.
 
