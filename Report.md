@@ -83,62 +83,22 @@ This entails that prompt responses, listening attentively and respecting other p
 |--------------|----------------|-----------------------------|
 |Facilitated knowledge sharing.              |Knowledge Sharing between experts               |Information Radiators                             |
 |              |Understanding of Requirements and Specifications due to 4 years of research                 |Open Office Space                             |
-|              |Facilitate the reduction of miscommunication and errors                |                             |Task Board
+|              |Facilitate the reduction of miscommunication and errors                |Task Board                             |
 |              |                |Whole Teams                             |
-|              |                |                             |
-|              |                |                             |
-|              |                |                             | 
-|              |                |                             |
-|              |                |                             |
-|              |                |                             |
-
-
-Effective coordination, with less overhead.
-Agile increases the coordination between teams.
-
-Having Cross Functional Teams allow for effective knowledge sharing and reduces amount of handovers between teams.
-
-Task boards allow each individual to know how and what they need to complete at anytime.
-Daily Meetings
-
-Information Radiators
-
-Open Office Space
-
-Task Board
-
-Whole Team
-
-Retrospectives
-Increased visibility of the status of other teams and the entire project
-Increases the efficiency of the product
-
-Quality Assurance 
-
-The agile practices will help to increase visibility of the project through continuous integration and iteration
-
-
-Daily Meetings
-
-Information Radiators
-
-Task Board
-
-Whole Team
-
-
-Possibly increased productivity
-Productivity will increase the product development efficiency
-
-Reduce the time to develop the product
-All Practices
-Balanced use of internal software documentation
-Maintenance of documentation
-
-Allows Understanding after handovers
-Empowerment
-
-Whole Team
+|Effective coordination, with less overhead.              |Agile increases the coordination between teams.                |Daily Meetings                             |
+|              |Having Cross Functional Teams allow for effective knowledge sharing and reduces amount of handovers between teams.                |Information Radiators                             |
+|              |Task boards allow each individual to know how and what they need to complete at anytime.                |Open Office Space                             | 
+|              |                |Task Board                            |
+|              |                |Whole Team                            |
+|              |                |Retrospectives                             |
+|Increased visibility of the status of other teams and the entire project              |Increases the efficiency of the product                |Daily Meetings                |   
+|              |Quality Assurance                |Information Radiators                | 
+|              |The agile practices will help to increase visibility of the project through continuous integration and iteration                |Task Board                | 
+|              |                |Whole Team                | 
+|Possibly increased productivity              |Productivity will increase the product development efficiency                |All Practices                | 
+|              |Reduce the time to develop the product                |                |
+|Balanced use of internal software documentation              |Maintenance of documentation                      |Empowerment                      |
+|              |Allows Understanding after handovers                      |                      |Whole Team
 
 #####3.9 Suggested Supporting Practices effects
 #####3.10 Balanced use of internal software documentation
