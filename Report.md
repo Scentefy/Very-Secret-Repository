@@ -80,6 +80,7 @@ This entails that prompt responses, listening attentively and respecting other p
 **Suggested Supporting Agile Practices effects Table Breakdown**
 
 |Benefits      |What does it do |What tools/practices are used|
+|--------------|----------------|-----------------------------|
 |Facilitated knowledge sharing.              |Knowledge Sharing between experts               |Information Radiators                             |
 |              |Understanding of Requirements and Specifications due to 4 years of research                 |Open Office Space                             |
 |              |Facilitate the reduction of miscommunication and errors                |Task Board                             |
