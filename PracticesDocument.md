@@ -33,7 +33,7 @@ One member is permitted to speak at a time to answer these questions and the ord
 
 This is effectively used in person and in front of an information radiator (eg. Scrum board, Burn down chart, etc.) of the overview of the project. Although it works most effectively in person, the stand-ups can be held over video call as well.
 
-Resources
+#####Further Reading
 
 [*http://www.extremeprogramming.org/rules/standupmeeting.html*](http://www.extremeprogramming.org/rules/standupmeeting.html)
 
@@ -57,6 +57,7 @@ It is advised to prepare and ensure an open working space earlier on in the proj
 
 Agile teams can do this by removing single cubicles and creating team work spaces (seen in the link below). This can also be done by creating adhoc team meeting spaces, which consist of large open areas with moveable desks and chairs. Information radiators should be placed in visible locations in close proximity within the work space.
 
+#####Further Reading
 [*http://www.agilealliance.org/wp-content/uploads/files/session\_pdfs/Agile%20Office%20Spaces%20Workshop.pdf*](http://www.agilealliance.org/wp-content/uploads/files/session_pdfs/Agile%20Office%20Spaces%20Workshop.pdf)
 
 <span id="h.7rxnna11jn6u" class="anchor"></span>Cross functional teams
@@ -83,6 +84,7 @@ Learning together
 
 Teams should share ideas and methods on how to approach a problem domain. This facilitates increasing the shared knowledge within a team, thus increasing the understanding of what solutions should be applied to the problem.
 
+#####Further Reading
 [*http://programmers.stackexchange.com/questions/59959/what-is-a-cross-functional-team-actual*](http://programmers.stackexchange.com/questions/59959/what-is-a-cross-functional-team-actually)[*ly*](http://programmers.stackexchange.com/questions/59959/what-is-a-cross-functional-team-actually)
 
 [*https://www.veracode.com/blog/2015/02/how-cross-functional-teams-can-take-agile-next-level*](https://www.veracode.com/blog/2015/02/how-cross-functional-teams-can-take-agile-next-level)
@@ -109,6 +111,7 @@ User stories are short and simple descriptions that can be written at many level
 
 Anybody can write user stories, however it is recommended that the stakeholders write them up as they have different perspectives compared to the developers working on the product. Developers however, can create user stories derived from high level requirements, with the assistance of the end user’s and product owner’s conversations, made with Business logic (a language that can be understood from the user’s perspective).
 
+#####Further Reading
 [*http://www.agilemodeling.com/artifacts/userStory.htm*](http://www.agilemodeling.com/artifacts/userStory.htm)
 
 [*http://www.energizedwork.com/weblog/2006/02/user-stories-part-1-what-is-user-story*](http://www.energizedwork.com/weblog/2006/02/user-stories-part-1-what-is-user-story)
@@ -133,6 +136,7 @@ Information radiators such as the Scrum Task Board and Risk management chart sho
 
 Information radiators should be set up close by or within the team’s workspace for a quick and efficient referential guide on the project’s state, goals, roles and progress.
 
+#####Further Reading
 [*http://whatis.techtarget.com/definition/information-radiator*](http://whatis.techtarget.com/definition/information-radiator)
 
 **Iteration planning and development**
@@ -153,6 +157,7 @@ After a sprint iteration completes.
 
 If the product owner decides to change or add more functionality to the product, the same process of creating user stories from the features is repeated. If there is a lack of understanding to make an acceptable user story, further conversation will be needed to be discussed with the product owner.
 
+#####Further Reading
 [*https://www.versionone.com/agile-101/agile-management-practices/agile-development-iteration-planning/*](https://www.versionone.com/agile-101/agile-management-practices/agile-development-iteration-planning/)
 
 [*http://www.agile-process.org/iterative.html*](http://www.agile-process.org/iterative.html)
@@ -171,6 +176,7 @@ The entire team.
 
 This is done by team members who can be responsible for managing and undertaking tasks to execute themselves, otherwise, it is best to ask help from the rest of the team to assign tasks to each other.
 
+#####Further Reading
 [*http://nearsoft.com/blog/are-you-ready-for-a-self-managed-agile-team/*](http://nearsoft.com/blog/are-you-ready-for-a-self-managed-agile-team/)
 
 **Quality assurance**
@@ -181,6 +187,7 @@ This is done by team members who can be responsible for managing and undertaking
 
 An Agile technique where two programmers work together at one workstation. One acts as the code writer and the other works as the observer who reviews the lines of code the code writer writes. The roles are switched frequently.
 
+#####Further Reading
 [***http://www.allaboutagile.com/pair-programming-an-extremely-agile-practice/***](http://www.allaboutagile.com/pair-programming-an-extremely-agile-practice/)
 
 **Demos**
@@ -201,6 +208,7 @@ At the end of the sprint iteration
 
 The deliverables functionality is demoed in front of project stakeholders and the product owner. This is then coupled with acceptance testing from the product owner who would then either recommend changes to the deliverable if needed. This is then put back into the product backlog and prioritized for the next iteration.
 
+#####Further Reading
 [*http://www.scaledagileframework.com/team-demo/*](http://www.scaledagileframework.com/team-demo/)
 
 [*http://agileforall.com/how-to-give-a-great-sprint-demo/*](http://agileforall.com/how-to-give-a-great-sprint-demo/)
@@ -223,6 +231,7 @@ The tests are first written in a way that will be satisfied by the functioning c
 
 product.
 
+#####Further Reading
 [*http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1034&context=csse\_fac*](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1034&context=csse_fac) **
 **Janzen, D., Hossein, S. (2005) Test-Driven Development: Concepts, Taxonomy and Future Direction. Computer, September 2005
 
@@ -242,6 +251,7 @@ At the end of each sprint.
 
 Team retrospectives are an internal evaluation of performance of the previous sprint iteration held with the development team. One way of doing it is by assess with the team what needs to be done, what should be stopped and what should be continued to be done. After the range of ideas have been written down the team can vote on which points to focus on for the next sprint.
 
+#####Further Reading
 [*https://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective*](https://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective)
 
 **Reviews**
@@ -262,4 +272,5 @@ After Demoing the deliverable
 
 The Product owner and Stakeholders assess the performance of the team through comparing the deliverables to the desired goal of the sprint and their perceived idea of their product. Recommendations are made if any, the development team notes them down.these are then made into prioritized user stories be put into the product backlog.
 
+#####Further Reading
 [***https://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting***](https://www.mountaingoatsoftware.com/agile/scrum/sprint-review-meeting)
