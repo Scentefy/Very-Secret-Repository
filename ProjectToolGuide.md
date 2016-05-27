@@ -1,5 +1,5 @@
 ﻿Project Practice Guide
-Software Engineering – Assignment 1B
+﻿Software Engineering – Assignment 1B
 
 Collaboration and Communication
 ===============================
