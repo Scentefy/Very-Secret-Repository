@@ -82,7 +82,7 @@ Miguel Saavedra
 4.1. Two things you did well.
 -----------------------------
 
--   Utilizing piktochart, an infographic tool which I used to produce our executive summary as it had to be easy to read for busy but intelligent people.
+-   Creating a meeting agenda and writing down the meeting notes in detail during our team meetings and retrospectives.
 
 -   Communicating and collaborating with the team to learn about the different practices and tools throughout the project together, by researching and recommending them for the case studies. For example the ‘Follow the Sun’ approach for project teams working in different countries or the tool Retrium which is a really helpful tool for holding project team retrospectives.
 
