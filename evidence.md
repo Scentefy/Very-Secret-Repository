@@ -1,8 +1,10 @@
 Evidence of Development
+======================
 Very Secret After the Meeting Team
-
+==================================
 
 Collaboration
+=============
 Meeting Minutes
 Holding meetings to communicate to plan collaboratively together was used. From these meetings notes were taken and a physical photograph of what was whiteboarded is taken.
 
@@ -74,6 +76,7 @@ https://drive.google.com/open?id=0B8h2MgMoU8D_MWMwUExGSEVObHc
 
 
 planning and tracking
+=====================
 Trello
 This was used to give a visualisation of the progress of the project and what needs to be done by whom. We also decided to customise it into a quest themed board with quests to be completed, quests under progress, Quest completion verification and quest completion list.
 
@@ -120,6 +123,7 @@ Deprecated Burndown chart Link
 https://drive.google.com/open?id=15Uzjc24RRo-Mcb-GjC06S9EsqqEq7a9DYil1A3bBQPw
 
 version control
+===============
 Github
 Decided to use Github to keep our version control of our documents. We would push our newer versions of the documents once passing the proofreading stage.This repository also took care of maintaining a history of a major version changes of our deliverable documents
 
@@ -146,6 +150,7 @@ Google Docs has a revision feature which allows for granularity further than git
 
 
 quality assurance
+=================
 Trello List & Acceptance Criteria
 A Trello list on the project board is dedicated to show documents which need proof reading. Acceptance criteria defined by the team for acceptable quality of documentation is also used for inspecting documents to assure quality assurance. This gives us a visual overview of documents needing proof reading and criteria which helps the proof reader.
 
@@ -164,9 +169,11 @@ Proofreaders change depending on whom the inspection officer chooses to elect if
 
 
 Link to acceptance criteria document
+====================================
 https://drive.google.com/open?id=1CXYow6KAmncPca1hGFc4-JALkoseaXQpTFTTXFroatw
 
 
 
 Assignment Root Folder
+======================
 https://drive.google.com/open?id=0B0hoR718u_w6VkEzblNic2xQZTA
