@@ -6,7 +6,7 @@ Project** **Team: “**Very Secret After the meeting” Team.
 |                               |                                                          |
 |-------------------------------|----------------------------------------------------------|
 | **Member Name (Student ID)**  | **Signature**                                            |
-| Miguel Saavedra (13826904)    | <img src="./media/image1.png" width="131" height="49" /> |
+| Miguel Saavedra (13826904)    | <img src="./media/13282075_1215096928508043_1147262458_n.png" width="131" height="49" /> |
 | Nitiwat Phachansiri (1319285) | <img src="./media/image2.png" width="143" height="47" /> |
 | Tristan Borja (1322097)       | <img src="./media/image3.png" width="120" height="66" /> |
 | Vivian Ngo (13830597)         | <img src="./media/image4.png" width="97" height="48" />  |
@@ -82,4 +82,6 @@ Project** **Team: “**Very Secret After the meeting” Team.
     -   Practice Documenter - Observes and records all practices used and it’s effects and deals with updating the Wiki page.
 
     -   Meeting Documenter - Records all information discussed in the meeting, and manages the meeting agendas.
+    
+    -   Quality inspection Officer - Responsible for making sure documents are up to standards set out in team made acceptance criteria for documentation standards and is in line with the document requirements.
 
