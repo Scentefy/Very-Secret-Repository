@@ -73,51 +73,20 @@ Decreasing the time between developing and integrating stable versions of the pr
 Applying two minds onto the same task the result benefits from the collective experience of two developers as opposed to just one. Although this at times may or may not provide increased productivity it allows for developers to feel more satisfied and assured that their work is correct.
 #####3.6 Test Automation
 Test Automation ensures that the development team does not waste effort on repetitive testing tasks. This is to ensure quality assurance while increasing efficiency. Using the Atlassian tool will assist with test automation also keep the developers focus on the main objective rather than repetitive testing.
-
 #####3.7 Respect People
 This entails that prompt responses, listening attentively and respecting other people's opinions by giving them some thought, not shooting them down on sight. This is key to software development and ultimately international software development teamwork. Many messages can be lost in translation and misunderstandings can happen between different cultures, hence it is extremely important to show respect within the team and its entirety.
-
-<<<<<<< HEAD
-**Suggested Supporting Agile Practices effects Table Breakdown**
-
-|Benefits                                                                |What does it do                                                                                                   |What tools/practices are used|
-|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------|
-|Facilitated knowledge sharing.                                          |Knowledge Sharing between experts                                                                                 |Information Radiators|
-|                                                                        |Understanding of Requirements and Specifications due to 4 years of research                                       |Open Office Space|
-|                                                                        |Facilitate the reduction of miscommunication and errors                                                           |Task Board|
-|                                                                        |                                                                                                                  |Whole Teams|
-|Effective coordination, with less overhead.                             |Agile increases the coordination between teams.                                                                   |Daily Meetings|
-|                                                                        |Having Cross Functional Teams allow for effective knowledge sharing and reduces amount of handovers between teams.|Information Radiators|
-|                                                                        |Task boards allow each individual to know how and what they need to complete at anytime.                          |Open Office Space| 
-|                                                                        |                                                                                                                  |Task Board|
-|                                                                        |                                                                                                                  |Whole Team|
-|                                                                        |                                                                                                                  |Retrospectives                                                                   |
-|Increased visibility of the status of other teams and the entire project|Increases the efficiency of the product                                                                           |Daily Meetings|   
-|                                                                        |Quality Assurance                                                                                                 |Information Radiators| 
-|                                                                        |The agile practices will help to increase visibility of the project through continuous integration and iteration. |Task Board| 
-|                                                                        |                                                                                                                  |Whole Team| 
-|Possibly increased productivity                                         |Productivity will increase the product development efficiency                                                     |All Practices| 
-|                                                                        |Reduce the time to develop the product                                                                            ||
-|Balanced use of internal software documentation                         |Maintenance of documentation                                                                                      |Empowerment|
-|                                                                        |Allows Understanding after handovers                                                                              |Whole Team|
-
-#####3.9 Suggested Supporting Practices effects
-#####3.10 Balanced use of internal software documentation
-=======
-#####3.8 Suggested Supporting Practices effects
-#####3.9 Balanced use of internal software documentation
->>>>>>> origin/master
+#####3.8 Balanced use of internal software documentation
 Documentation is essential for effective communication in terms of the project development processes. They can be shared to other stakeholders of the project and often consist of information such as project planning, development information and also issues that have occurred throughout the duration of the project. Eventually, documentations become beneficial for project development and maintenance (Mira, 2005), but effort is required to maintain these documents throughout the life cycle of the project. Hence, the use of effective documentation containing critical information on the operations of the project and code are necessary for both phases of the project.
 
 Firstly for the cohesive coordination of development teams for the first phase and even more so for the second as the scale of development increases. Secondly for the handover of the MVP clear coding and functionality documentation. It is important for the Vancouver and Vietnam teams to clearly take advantage of the knowledge generated from the development of the prototype.
-#####3.10 Facilitated knowledge sharing
+#####3.9 Facilitated knowledge sharing
 
 The organization has many departments and experts in the areas that are involved in the product, allowing the use of cross functional teams to enable knowledge sharing amongst the project team. This means that with an increased knowledge base and an addition of 4 years of research, the developers would have a firm understanding of the requirements and functionalities that will be needed for the product. Overall, this would effectively facilitate the reduction of misunderstood requirements made when developing the product and development of valuable functional deliverables. 
-#####3.11 Increased visibility of the status of other teams and the entire project
+#####3.10 Increased visibility of the status of other teams and the entire project
 This project involves more than one team which means it will be hard to keep a clear vision over the entire project. The agile practices will help to increase visibility of the project through continuous integration and iteration which will allow the project teams to be able to keep track of the statuses of other teams.(L. Lagerberg and T. Skude, "The impact of agile principles and practices in large-scale software development projects) shows empirical evidence where project visibility is resulted from daily meetings, facilitated knowledge sharing and information radiators which all have been leading up to effective coordination within the project team. 
 
 In phase 2, the project will be handed over to be developed by two teams which are based in Vietnam and Vancouver. These teams will have meetings during at the end of the work day or early in the morning, depending on their time zones, to report what they have done. This will provide each team with the status of the project and therefore will increase the efficiency of the product.
-#####3.12 Use of metrics
+#####3.11 Use of metrics
 Using metrics within projects allows project members to track their progress and has many benefits, this will increase the visibility to all the members as will be tracking their progress as well as other people in their proximity. Using metrics will be able to simplify the complex aspect of software development therefore stakeholders have a clarified view of the project.
 
 Metrics support achieving goals such as burn down charts, they are used so team members will not spend too much time perfecting their task and allow a visibility on how they are doing with the project. 
@@ -125,13 +94,13 @@ Metrics support achieving goals such as burn down charts, they are used so team 
 Metrics are used to balance workflow by limiting how a person works will stop them from overworking therefore providing other tasks more balance, This will be done by having a steady flow of requirements.
 
 Metrics are used by the user to provide a satisfactory level, this will help teams to understand the quality level of the product whether to improve other aspects of the product. This can be used to improve the product before the release as well from pre-released customer surveys.
-#####3.13 Effective coordination, with less overhead.
+#####3.12 Effective coordination, with less overhead.
 Agile contains many important factors that can contribute to effective coordination between Agile Software Development teams. Cross functional teams, as explained before in the section ‘Facilitated Knowledge Sharing’, can allow effective knowledge sharing by reducing the amount of handovers between the teams within the company. 
-#####3.14 Team proximity
+#####3.13 Team proximity
 A close proximity in office space between cross functional teams is also very important, however since the company teams will be spread across throughout Vietnam and Vancouver, it would be difficult for cross functional teams to work together effectively. Daily meetings can be time consuming but are an effective coordination mechanism. Task boards allow each individual to know how and what they need to complete at anytime. This is only effective inside teams rather than between teams, however, it allows an insight of for each team to know what other teams are doing.
 
 One big issue that would occur between the Vietnam and Vancouver teams would be the difference in time zones and language barriers. Coding will be done entirely in english in order to avoid different variations of the code being made each time it is handed off. This will provide quality assurance, preventing mistakes and misunderstandings being made when developers from both teams. Translators may be needed on each team to provide better communication between teams, to avoid confusion and miscommunication on what they are trying to achieve throughout the developmental process.The teams will need to communicate and discuss regarding what they have done and handover work that has been done since their last meeting. These meetings will have to occur during the end of the day or early in the morning, depending on their time zones due to there being a 14hr difference between both countries.
-#####3.15 Possibly increased productivity
+#####3.14 Possibly increased productivity
 (L. Lagerberg and T. Skude, "The impact of agile principles and practices in large-scale software development projects) has a table that shows productivity increases as they progress through sprints. Productivity is increased through the uses of agile methodology, this allows teams to focus on the main tasks and keeps progress on track through sprints. All the project tools will support and increase the productivity within the first phase and the second phase through the uses of agile practices.
 
 
