@@ -1,5 +1,7 @@
-Project Practice Guide
+﻿Project Practice Guide
+======================
 Software Engineering – Assignment 1B
+====================================
 Collaboration and Communication
 ===============================
 Introduction
@@ -21,6 +23,7 @@ Task boards: A series of task lists that collectively make a task board. The tas
 Cards: A feature that represents a single task. These are placed within a task list by the user and can describe a task or idea in detail.
 The features listed above are appropriate for project management because it simulates a virtual task board. Similar to its physical counterpart, the concept of task boards has been implemented in Trello to imitate a task board as seen in agile projects.
 
+<img src="./media/taskboard.png" width="624" height="405" />
 
 Daily Meetings
 ==============
@@ -98,7 +101,9 @@ Comments can be made from the project team to inform others about their insight 
 
 Image 1. shows what a card’s format may be set as. Depending on the project team, the information within each card can vary as Trello provide flexibility for describing user stories in a specific card.
 	
+<img src="./media/trellocard.png" width="410" height="602" />
 Image 1. Card from Trello
+
 Project Planning and Progress Tracking
 ======================================
 ####Information Radiators
@@ -111,6 +116,7 @@ Change Management
 ####Empowerment
 Empowerment is not a practice that can be assisted by tools, but tools can reflect the effectiveness of this practice within a project team. Trello follows the concept of enabling individuals to undertake tasks of their choice. This is done by giving each member the authority to assign themselves to a specific card. By assigning themselves to a card, the individual has a responsibility to implement the user story that has been described by the card.
 
+<img src="./media/adding members.png" width="186" height="219" />
 Image 2. Individuals can assign themselves to a card.
 
 Quality Assurance
@@ -134,7 +140,7 @@ Retrospectives should be recorded and referred to in the future. With tools such
 ####Retrium
 Retrium is an online retrospective tool that integrates a selection of powerful retrospective techniques (Gonçalves, 2014). These techniques can be chosen by the project team depending on their preference. The following techniques have been implemented into this retrospective tool:
 
-
+<img src="./media/retrospective.png" width="624" height="307" />
 Image 3. Constructing a Start, Stop, and Continue Retrospective with a team
 
 ####4Ls:
