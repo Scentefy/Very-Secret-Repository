@@ -81,10 +81,10 @@ This entails that prompt responses, listening attentively and respecting other p
 
 |Benefits      |What does it do |What tools/practices are used|
 |--------------|----------------|-----------------------------|
-|Facilitated knowledge sharing.              |                |                             |
-|              |                |                             |
-|              |                |                             |
-|              |                |                             |
+|Facilitated knowledge sharing.              |Knowledge Sharing between experts               |Information Radiators                             |
+|              |Understanding of Requirements and Specifications due to 4 years of research                 |Open Office Space                             |
+|              |Facilitate the reduction of miscommunication and errors                |                             |Task Board
+|              |                |Whole Teams                             |
 |              |                |                             |
 |              |                |                             |
 |              |                |                             | 
@@ -93,21 +93,6 @@ This entails that prompt responses, listening attentively and respecting other p
 |              |                |                             |
 
 
-
-Knowledge Sharing between experts 
-
-Understanding of Requirements and Specifications due to 4 years of research 
-
-Facilitate the reduction of miscommunication and errors
-Daily Meetings
-
-Information Radiators
-
-Open Office Space
-
-Task Board
-
-Whole Teams
 Effective coordination, with less overhead.
 Agile increases the coordination between teams.
 
