@@ -100,7 +100,7 @@ This entails that prompt responses, listening attentively and respecting other p
 |--------------|----------------|-----------------------------|
 |Possibly increased productivity              |Productivity will increase the product development efficiency                |All Practices                | 
 |              |Reduce the time to develop the product                |                |
-|--------------|----------------|-----------------------------|
+|---|---|---|
 |Balanced use of internal software documentation              |Maintenance of documentation                      |Empowerment                      |
 |              |Allows Understanding after handovers                      |                      |Whole Team
 
